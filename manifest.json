@@ -5,8 +5,7 @@
     "version": "1.0",
     "author": "Theo Greenslade",
     "action": {
-      "default_popup": "hello.html",
-      "default_icon": "hello_extensions.png"
+      "default_icon": "icon.png"
     },
     "content_scripts":
     [
